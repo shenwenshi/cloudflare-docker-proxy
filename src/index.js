@@ -16,6 +16,8 @@ const routes = {
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
   "ecr.libcuda.so": "https://public.ecr.aws",
 
+   "cloudsmith.icoco.online": "https://docker.cloudsmith.io",
+
   // staging
   "docker-staging.libcuda.so": dockerHub,
 };
